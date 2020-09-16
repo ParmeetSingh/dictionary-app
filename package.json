@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "~8.2.9",
     "@angular/router": "~8.2.9",
     "angularx-social-login": "^2.2.1",
-    "bootstrap": "^3.4.0",
+    "bootstrap": "^3.4.1",
     "fs": "0.0.1-security",
     "hammerjs": "^2.0.8",
     "jw-angular-pagination": "^1.2.0",
